@@ -1,2 +1,2 @@
-# testin
+# testing
 Testing commits  
